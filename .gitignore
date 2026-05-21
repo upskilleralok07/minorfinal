@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.pkl
+models/*.pkl
+placepilot.db
+.env
+/.vscode/
+*.log
+resume/__pycache__/
+models/intern/*.pkl
