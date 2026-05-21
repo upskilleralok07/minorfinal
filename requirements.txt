@@ -1,0 +1,9 @@
+streamlit
+bcrypt
+pandas
+numpy
+scikit-learn
+groq
+streamlit-audiorecorder
+SpeechRecognition
+pydub
